@@ -1,0 +1,1 @@
+rozwiązać problem podania późniejszej godziny niż ostatni początek programu
